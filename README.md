@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning the basics for any developer right now.
 - 🌱 I’m currently learning the basics of development; languages like python and (HTML5, CSS3, JS), technologies, git and github, etc.
 - 💞️ I’m looking to collaborate on anything i can.
-- 📫 How to reach me: you can send an e-mail for arthurmoreauti@gmail.com
+- 📫 How to reach me: you can send an e-mail to arthurmoreauti@gmail.com
 
 <!---
 arthur-moreau/arthur-moreau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
